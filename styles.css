@@ -8,8 +8,8 @@ body {
   padding: 20px;
   display: flex;
   flex-direction: column;
-  width: 400px;
-}
+  width: 400px; 
+} 
 
 .formulario input, select {
   border: none;
